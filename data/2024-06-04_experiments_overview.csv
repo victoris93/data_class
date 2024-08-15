@@ -1,0 +1,74 @@
+﻿OP,patcher,region,cortex_out,Before and after,repatch,incubation only,spontaneous,EPSPs_highK,cell_attached,analysed,K concentration,minis,incubation time (h),mini_incubation_time,analysed_minis,transcriptomics,comments
+OP201020,Rosie,temporal,2020-10-20 10:00:00,yes,no,no,no,no,no,no,15 mM,no,,,,no,"old protocols, not analyzed"
+OP201027,Rosie,temporal,2020-10-27 10:05:00,yes,yes,no,no,no,no,yes,15 mM,no,,,,no,
+OP201029,Rosie,temporal,2020-10-29 11:00:00,yes,yes,no,no,no,no,yes,15 mM,no,20,,,no,some old protocols
+OP210304,Rosie,temporal,2021-03-04 10:00:00,no,no,yes,no,no,no,yes,15 mM,yes,22,20,yes,no,as indices_dict take the json file in the OP folder
+OP210319,Rosie,temporal,2021-03-19 15:05:00,yes,yes,no,yes,no,no,yes,15 mM,no,24,,,no,for indices dict - use the json in the data folder
+OP210323,Rosie,temporal,2021-03-23 17:10:00,yes,yes,no,yes,no,no,yes,15 mM,no,22,,,no,
+OP210615,Rosie,temporal,2021-06-15 10:15:00,yes,no,yes,yes,no,no,yes,15 mM,no,21,,,no,
+OP211116,Rosie,temporal,2021-11-16 14:00:00,no,no,yes,no,no,no,no,15 mM,yes,"18, 24",20,yes,no,double check the slice names + treatment
+OP211123,Rosie,temporal,2021-11-23 10:30:00,yes,no,no,yes,no,no,yes,15 mM,no,23.5,,,no,
+OP211220,Rosie,temporal,2021-12-20 13:40:00,no,no,yes,no,no,no,yes,15 mM,yes,21,12,yes,no,different incubation time for minis and incubation only
+OP220111,Rosie,temporal,2022-01-11 10:00:00,yes,yes,yes,yes,no,no,yes,15 mM,no,15,,,no,
+OP220120,Rosie,temporal,2022-01-20 12:45:00,no,yes,yes,yes,no,no,yes,15 mM,yes,"2, 10",22,yes,no,
+OP220127,Rosie,temporal,2022-01-27 12:50:00,yes,yes,no,yes,no,no,yes,15 mM,no,24,,,no,
+OP211116,Verji,temporal,2021-11-16 14:00:00,no,no,yes,no,no,no,no,15 mM,yes,,"4, 12",,no,
+OP211123,Verji,temporal,2021-11-23 10:30:00,yes,yes,no,yes,no,no,yes,15 mM,no,23,,,no,
+OP211209,Verji,temporal,2021-12-09 12:35:00,yes,yes,no,yes,no,no,yes,15 mM,no,18,,,no,
+OP211220,Verji,temporal,2021-12-20 13:40:00,yes,yes,no,yes,no,no,yes,15 mM,no,17,,,no,
+OP220120,Verji,temporal,2022-01-20 12:45:00,yes,yes,yes,yes,no,no,yes,15 mM,yes,23,16,yes,no,
+OP220127,Verji,temporal,2022-01-27 12:50:00,yes,yes,no,yes,no,no,yes,15 mM,no,23,,,no,
+OP220217,Verji,temporal,2022-02-17 09:25:00,yes,yes,no,yes,no,no,yes,15 mM,no,22,,,no,
+OP220228,Verji,temporal,2022-02-28 10:15:00,yes,yes,yes,yes,no,no,yes,15 mM,yes,23,22,yes,yes,
+OP220308,Verji,temporal,2022-03-08 10:40:00,no,yes,yes,yes,no,no,yes,15 mM,yes,20,20,yes,yes,
+OP220322,Verji,temporal,2022-03-22 10:21:00,yes,yes,no,yes,no,no,yes,15 mM,no,22,,,yes,
+OP220413,Verji,temporal,2022-04-13 10:20:00,no,no,yes,no,yes,no,yes,15 mM,no,,,,no,testing high K condition
+OP220426,Verji,temporal,2022-04-26 10:27:00,yes,yes,yes,yes,no,no,yes,15 mM,yes,24,44,no,yes,the transcriptomics samples are not all labeled with the OP for that experiment
+OP220518,Verji,frontal,2022-05-18 10:40:00,yes,yes,no,yes,no,no,yes,15 mM,no,24,,,no,
+OP220602,Verji,temporal,2022-06-02 10:08:00,yes,yes,yes,yes,no,no,yes,8 mM,yes,22,42,no,no,
+OP220615,Verji,frontal,2022-06-15 11:25:00,no,no,yes,no,yes,no,yes,8 mM,no,,,,no,trying TTX experiment and some high K analysis
+OP220811,Verji,temporal,2022-08-11 10:45:00,no,no,yes,no,no,no,yes,8 mM,no,17,,,no,
+OP220914,Verji,temporal,2022-09-14 10:08:00,yes,yes,yes,yes,no,no,yes,8 mM,yes,24,48,no,no,
+OP221024,Verji,temporal,2022-10-24 10:52:00,yes,yes,yes,yes,no,no,yes,8 mM,yes,24,32,no,yes,
+OP221027,Verji,temporal,2022-10-27 09:21:00,yes,yes,yes,yes,no,no,yes,8 mM,yes,24,46,no,yes,
+OP221020,Verji,temporal,2022-10-20 14:57:00,no,no,yes,yes,no,no,yes,8 mM,yes,20,22,no,no,
+OP221116,Verji,temporal,2022-11-16 12:25:00,no,no,no,no,yes,no,yes,8 mM,no,,,no,no,analysis of high K condition
+OP230109,Verji,temporal,2023-01-09 12:26:00,yes,yes,yes,yes,no,no,yes,8 mM,yes,24,41,no,no,
+OP230126,Verji,frontal,2023-01-26 10:45:00,no,no,no,no,yes,no,yes,8 mM,no,,,,,analysis of high K condition
+OP230209,Verji,temporal,2023-02-09 13:03:00,yes,yes,no,yes,no,no,yes,8 mM,no,25,,,,
+OP230314,Verji,temporal,2023-03-14 13:40:00,yes,yes,no,yes,no,no,yes,8 mM,no,25,,,,
+OP230329,Verji,frontal,2023-03-29 11:56:00,no,no,no,no,no,no,yes,8 mM,no,,,,,"Washing in high K (+8mM, +15 mM and + 40 mM) and recording LFPs "
+OP230330,Verji,temporal,2023-03-30 13:26:00,no,no,no,no,no,yes,yes,8 mM,no,,,,,"Loose cell attached recordings while washing in high K (+8mM, +15 mM and + 40 mM) "
+OP230412,Verji,frontal,2023-04-12 13:31:00,no,no,no,no,no,no,yes,8 mM,no,,,,,no recordings were possible because of innaccessible cells on D2; layer on top
+OP230417,Verji,frontal,2023-04-17 09:57:00,no,no,yes,no,no,yes,yes,8 mM,yes,,20,,,Testign TTX washout and high K cell-attached
+OP230420,Verji,temporal,2023-04-20 10:09:00,yes,yes,yes,yes,no,no,yes,8 mM,yes,20,18,,,TTX wash out exp
+OP230426,Verji,temporal,2023-04-26 13:26:00,no,yes,no,no,no,no,yes,8 mM,no,3,,,,
+OP230504,Verji,temporal,2023-05-04 10:30:00,no,yes,no,no,no,no,yes,8 mM,no,3,,,,iompossible to record after 24h. No analysis needed
+OP220623,Verji,frontal,2022-06-23 09:55:00,no,yes,no,no,no,no,yes,8 mM,no,22,,,,
+OP230523,Verji,temporal,2023-05-23 09:11:00,no,yes,yes,yes,no,no,yes,8 mM,yes,3.5,18,,,
+OP230808,Verji,temporal,2023-08-08 11:29:00,no,yes,no,yes,no,no,yes,8 mM,no,"5, 25",,,,connectivity not analyzed!!
+OP230810,Verji,temporal,2023-08-10 10:11:00,no,yes,yes,yes,no,no,yes,8 mM,yes,4,24,,,
+OP230817,Verji,temporal,2023-08-17 10:14:00,no,yes,yes,yes,no,no,yes,8 mM,yes,23,19,,,
+OP230822,Verji,temporal,2023-08-22 10:22:00,no,yes,yes,yes,no,no,yes,8 mM,yes,4,"44,46",,,
+OP230914,Verji,temporal,2023-09-14 10:28:00,no,no,no,no,yes,no,yes,8 mM,no,,,,no,
+OP231005,Verji,temporal,2023-10-05 10:25:00,no,no,no,no,yes,no,yes,8 mM,no,,,,no,
+OP231108,Verji,temporal,2023-11-08 09:25:00,no,no,no,no,no,no,yes,,,,,,,
+OP231109,Verji,temporal,2023-11-09 13:05:00,no,yes,no,no,yes,no,yes,8 mM,,,,,,
+OP230704,Verji,,2023-07-04 12:57:00,,,,,,,,,,,,,,
+OP231123,Verji,temporal,2023-11-23 10:28:00,no,yes,no,yes,yes,no,yes,8 mM,no,21,,no,"yes, only slices",
+OP231130,Verji,temporal,2023-11-30 10:15:00,no,yes,no,yes,yes,no,yes,8 mM,no,21,,no,"yes, only slices",MEA as well
+OP231207,Verji,temporal,2023-12-07 10:15:00,no,no,yes,no,no,no,yes,8 mM,no,,,,high K test,
+OP240117,Verji,temporal,2024-01-17 16:42:00,yes,yes,no,no,no,no,yes,8 mM,no,,,,,
+OP240118,Verji,temporal,2024-01-18 13:55:00,yes,yes,yes,yes,yes,yes,yes,8 mM,,,,,,
+OP240124,Verji,temporal,2024-01-24 11:00:00,no,no,no,no,no,no,yes,,,,,,,
+OP240201,Verji,temporal,2024-02-01 10:19:00,yes,yes,no,no,no,no,yes,8 mM,,,,,,
+OP240208,Verji,temporal,2024-02-08 13:00:00,no,no,no,no,no,no,yes,8 mM,yes,,,,,
+OP240215,Verji,temporal,2024-02-15 10:00:00,yes,yes,no,yes,no,no,yes,8 mM,,,,,,
+OP240221,Verji,temporal,2024-02-21 10:10:00,yes,yes,yes,yes,no,no,yes,8 mM,,,,,,
+OP240229,Verji,temporal,2024-02-29 10:10:00,no,no,no,no,no,no,yes,8 mM,no,,,,,
+OP240318,Verji,temporal,2024-03-18 10:45:00,no,no,no,no,no,no,yes,8 mM,no,,,,,
+OP240321,Verji,temporal,2024-03-21 10:15:00,yes,yes,no,yes,no,no,yes,8 mM,no,17,,,,
+OP240411,Verji,temporal,2024-04-11 10:13:00,yes,yes,no,yes,no,no,yes,8 mM,no,18,,no,,
+OP240417,Verji,temporal,2024-04-17 16:09:00,yes,yes,no,yes,no,no,yes,8 mM,no,,,no,,
+OP240503,Verji,temporal,2024-05-03 09:34:00,yes,yes,no,yes,no,no,yes,8 mM,no,,,no,,
+OP240507,Verji,temporal,2024-05-07 09:03:00,yes,yes,no,yes,no,no,yes,8 mM,no,,,no,,
